@@ -1,19 +1,20 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
 
-# hi this is a projects page
+
 
 {% for project in site.projects %}
 
-<img src="{{site.baseurl}}/assets/img/{{project.icon}}">
+  ***
 
-# {{ project.title }}
-{{ project.content }}
+  <div class="projectimage box" style="background: url({{site.baseurl}}/assets/img/{{project.icon}})"></div>
 
-
-***
+  <div class="projectinfo">
+    <h1>{{ project.title }}</h1>
+    {{ project.content }}
+  </div>
 
 {% endfor %}

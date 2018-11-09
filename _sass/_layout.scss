@@ -57,11 +57,11 @@ body {
 }
 .logo a {
   -webkit-transition:.4s;
-  transition:.4s;
+  transition:.7s;
 }
 
 .logo a:hover {
-  color:#222;
+  color:#16538c;
   background-image:-webkit-linear-gradient(bottom,#222,#222);
   background-image:linear-gradient(to top,#222,#222);
   text-shadow:-1px -1px 0 #FDFDFD,1px -1px 0 #FDFDFD,-1px 1px 0 #FDFDFD,1px 1px 0 #FDFDFD;
@@ -299,7 +299,30 @@ p.readmore {
     color:#999;
 }
 
+/* project info */
+.projectimage {
+  @media (min-width: $on-laptop+1) {
+    float:left;
+    margin-right: 30px;
+  }
 
+  @media (max-width: $on-laptop) {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 30px;
+  }
+
+  width: 200px;
+  height: 200px;
+  -webkit-background-size: cover !important;
+  background-size: cover !important;
+  background-position: center center !important;
+}
+
+.projectinfo {
+    color:#999;
+}
 
 /* footer */
 

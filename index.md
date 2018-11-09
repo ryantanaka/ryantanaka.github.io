@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/profile.jpeg)"></div>
 
 <div class="authorinfo">

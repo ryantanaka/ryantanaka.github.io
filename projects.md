@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
+# Projects I Have Worked On
+
+Below is a collection of some of the projects, for both academic and personal purposes, that I have
+worked on and found to be meaningful.
+
+<span class="label label-info">Languages</span>
+<span class="label label-default">Frameworks/Tools</span>
+
 {% assign projects = site.projects | sort:"order" %}
 {% for project in projects %}
 

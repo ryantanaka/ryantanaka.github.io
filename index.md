@@ -7,6 +7,11 @@ title: Home
 
 <div class="authorinfo">
 
-Bacon ipsum dolor amet pastrami capicola turkey hamburger burgdoggen, boudin shankle andouille kevin beef. Bacon jerky shankle alcatra pig venison. Doner salami cow short ribs t-bone sirloin cupim tail ribeye sausage. Flank leberkas cupim prosciutto, pastrami jowl brisket doner ground round tongue. Corned beef hamburger filet mignon, t-bone kielbasa picanha jowl buffalo andouille sirloin tenderloin ball tip pork chop pork loin ribeye. Ground round pancetta bacon short ribs pork belly brisket sirloin.
+Currently pursuing an <span class="black">MS in Computer Science</span> at the <span class="black">University of Hawaii at Manoa</span>
+with a <span class="black">focus on parallel and distributed computing</span>. I am working as a graduate research
+assistant on the <a href="http://wrench-project.org/">WRENCH Project</a>, developing code for the distributed computing
+simulation framework along with a series of <a href="http://wrench-project.org/wrench-pedagogic-modules">interactive pedagogic modules</a>. Additionally,
+I am a member of the <span class="black">Environmental Research and Design Lab</span> where I work on <span class="black">data acquisition
+tools</span> for aggregating sensor data from net zero energy buildings.
 
 </div>

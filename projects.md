@@ -4,16 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-
-
-{% for project in site.projects %}
+{% assign projects = site.projects | sort:"order" %}
+{% for project in projects %}
 
   ***
 
-  <div class="projectimage box" style="background: url({{site.baseurl}}/assets/img/{{project.icon}})"></div>
+  <div id="projectimage-{{ forloop.index }}" class="projectimage box" style="background: url({{site.baseurl}}/assets/img/{{project.icon}})"></div>
 
   <div class="projectinfo">
-    <h1>{{ project.title }}</h1>
+    <h1 class="black">{{ project.title }}</h1>
     {{ project.content }}
   </div>
 

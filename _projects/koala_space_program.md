@@ -4,5 +4,13 @@ title: Koala Space Program
 icon: koala.png
 order: 6
 ---
+#### Nasa Space Apps Challenge 2016 World Semi-Finalists
 
-Pork belly t-bone sirloin turkey, ground round pork tenderloin swine alcatra short ribs boudin doner. Cupim brisket chuck ham hock bresaola salami pork belly kevin shank hamburger. Buffalo drumstick capicola spare ribs doner hamburger. Bresaola meatball frankfurter turducken tri-tip buffalo ham prosciutto venison cow pork loin andouille. Burgdoggen beef ribs ham chuck jerky picanha bacon, doner pancetta beef.
+Game and challenge description can be found on Nasa's
+ [website](https://2016.spaceappschallenge.org/challenges/mars/space-route-66/projects/koala-space-program). I programmed parts of the GUI, animations, and event handlers using C# and
+MonoDevelop. Also created a weather module that simulates passing time on Mars
+by programming a light source to rotate around the terrain.
+Team members: Joshua Nishiguchi, Aditya Kumar, and Stephani Diep, made this project a great success. [[Video]](https://youtu.be/nqm8iJDUQQA)
+
+<span class="label label-info">C#</span>
+<span class="label label-default">Unity3D</span>

@@ -5,4 +5,11 @@ icon: pushbox.png
 order: 7
 ---
 
-Pork belly t-bone sirloin turkey, ground round pork tenderloin swine alcatra short ribs boudin doner. Cupim brisket chuck ham hock bresaola salami pork belly kevin shank hamburger. Buffalo drumstick capicola spare ribs doner hamburger. Bresaola meatball frankfurter turducken tri-tip buffalo ham prosciutto venison cow pork loin andouille. Burgdoggen beef ribs ham chuck jerky picanha bacon, doner pancetta beef.
+ATT Mobile App Hackathon 2016 2nd Place Winner
+My team and I created a smart mailbox unit and android application that will notify a user when mail has been inserted or removed from one's mailbox.
+
+The hardware implementation consisted of a Raspberry Pi 2 B+, USB postage scale, wired switches, external battery, WiFi antenna, and a custom made mailbox platform.
+
+I was responsible for programming the login pages on the android device using Java. My team members developed a C program that takes in data from the USB scale and pushes it to the server.
+
+It was a pleasure working with Joshua Nishiguchi, Aditya Kumar, Stephani Diep, Oliver Sou, James Park, and Reed Shinsato for this project.

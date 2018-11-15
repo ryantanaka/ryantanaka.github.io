@@ -4,9 +4,17 @@ title: Evolutionary Algorithm for Plotting A Graph With Minimal Edge Crossings
 icon:
 order: 0
 ---
+#### Evolutionary Algorithms Course Project
 
-Pork belly t-bone sirloin turkey, ground round pork tenderloin swine alcatra short ribs boudin doner. Cupim brisket chuck ham hock bresaola salami pork belly kevin shank hamburger. Buffalo drumstick capicola spare ribs doner hamburger. Bresaola meatball frankfurter turducken tri-tip buffalo ham prosciutto venison cow pork loin andouille. Burgdoggen beef ribs ham chuck jerky picanha bacon, doner pancetta beef.
+Drawing graphs on an arbitrary canvas that is, in some way, aesthetically pleasing
+turns out to be a difficult task. Initially, I wanted to draw a "nice" graph, but
+there are so many factors that need to be considered, I decided to focus on one:
+minimizing edge crossings. 
+[[Report and Code]](https://github.com/ryantanaka/674_genetic_algorithm/blob/master/ga_for_planar_graph.pdf)
 
+<span class="label label-info">Python</span>
+<span class="label label-info">Javascript</span>
+<span class="label label-default">D3.js</span>
 
 <html lang="en">
 <head>

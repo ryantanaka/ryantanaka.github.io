@@ -4,5 +4,21 @@ title: Semester Schedule Visualization App
 icon: semester_viz.png
 order: 5
 ---
+#### Data Storage and Retrieval Course Project
 
-Pork belly t-bone sirloin turkey, ground round pork tenderloin swine alcatra short ribs boudin doner. Cupim brisket chuck ham hock bresaola salami pork belly kevin shank hamburger. Buffalo drumstick capicola spare ribs doner hamburger. Bresaola meatball frankfurter turducken tri-tip buffalo ham prosciutto venison cow pork loin andouille. Burgdoggen beef ribs ham chuck jerky picanha bacon, doner pancetta beef.
+At the time of this project, my school did not have a modern registration
+system with a fancy user interface so I wanted to build a tool to help
+students visualize their upcoming semester schedule.
+When a user clicks on an offered course, it
+gets added
+to the user's course list and displayed on the calendar. Courses that are
+already added may either be hidden from the calendar or deleted
+altogether. Once the user has a desired schedule, it may be saved for
+viewing at a later time. [[Video Demo]](https://youtu.be/aQtJMmEkbII)
+
+<span class="label label-info">Javascript</span>
+<span class="label label-default">Node.js</span>
+<span class="label label-default">Express.js</span>
+<span class="label label-default">EJS</span>
+<span class="label label-default">Semantic UI</span>
+<span class="label label-default">FullCalendar</span>

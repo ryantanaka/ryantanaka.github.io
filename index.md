@@ -7,7 +7,7 @@ title: Home
 
 <div class="authorinfo">
 
-Currently pursuing an <span class="black">MS in Computer Science</span> at the <span class="black">University of Hawaii at Manoa</span>
+Currently pursuing a <span class="black">M.S. in Computer Science</span> at the <span class="black">University of Hawaii at Manoa</span>
 with a <span class="black">focus on parallel and distributed computing</span>. I am working as a graduate research
 assistant on the <a href="http://wrench-project.org/">WRENCH Project</a>, developing code for the distributed computing
 simulation framework along with a series of <a href="http://wrench-project.org/wrench-pedagogic-modules">interactive pedagogic modules</a>. Additionally,

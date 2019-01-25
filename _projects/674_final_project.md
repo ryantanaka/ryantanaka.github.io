@@ -2,7 +2,7 @@
 layout: page
 title: Scheduling Parameter Sweep Applications on Heterogeneous Compute Resources
 icon: ga.png
-order: 0
+order: 1 
 ---
 #### Evolutionary Algorithms Course Project
 
